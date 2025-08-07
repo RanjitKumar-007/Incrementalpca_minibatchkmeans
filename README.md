@@ -1,4 +1,4 @@
-# pca_minibatchkmeans
+# Incrementalpca_minibatchkmeans
 
 This code is specifically developed for change detection in both SAR and optical images. It is capable of handling all types of image formats, such as .jpeg, .jpg, .png, .bmp, .tiff, .tif, .ntf, and .nitf.
 
