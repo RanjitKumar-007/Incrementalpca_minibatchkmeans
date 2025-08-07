@@ -1,4 +1,3 @@
-"""pca_kmeans - Version 1.0.5"""
 """Importing libraries"""
 import time
 import os
@@ -213,3 +212,4 @@ if __name__ == "__main__":
     savi_threshold = 1 #Value ranges between 0 to 1
     run_pca_kmeans(image_path1, image_path2, ndvi_threshold,
                      ndwi_threshold, ndsi_threshold, savi_threshold)
+
