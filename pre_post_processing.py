@@ -1,4 +1,3 @@
-"""Pre Post Processing - Version 1.0.3"""
 """Importing libraries"""
 # import os
 # from osgeo import gdal, osr
@@ -340,3 +339,4 @@ class load_images():
             self.embed_georeference(output_data, projection, geotransform, gcps, gcp_projection)
         else:
             print("Georeference details could not be extracted")
+
